@@ -58,4 +58,3 @@ R_K = 5 * (R + 273) / 4
 
 #Menampilkan hasil hitung pengkonversian
 print ("Besar suhu reamur dalam Kelvin adalah",R_K, "K.")
-p
