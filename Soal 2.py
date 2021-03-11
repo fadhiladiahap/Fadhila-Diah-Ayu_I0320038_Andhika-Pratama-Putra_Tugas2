@@ -38,3 +38,4 @@ print ("Untuk makanan, aku menyukai semua olahan yang berkaitan dengan ayam, sep
 print ("Sedangkan untuk minuman, aku lebih menyukai teh dibanding kopi. Selain itu, aku juga menyukai minuman red velvet.")
 print ("Aku merupakan orang yang suka bergaul dan berkomunikasi dengan orang lain. Aku tidak pernah memilih-milih")
 print ("dalam urusan pertemanan. Selain itu, aku merupakan pribadi yang mau dan mampu mendengarkan cerita orang lain dengan baik.")
+p
